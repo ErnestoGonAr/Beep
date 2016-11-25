@@ -73,13 +73,11 @@
             <Button android:id="@+id/IniciarSesion"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
                 android:layout_gravity="left"
                 android:text="Iniciar Sesion" />
             <Button android:id="@+id/Registrarse"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="10dp"
                 android:layout_gravity="right"
                 android:text="Registrarse" />
 

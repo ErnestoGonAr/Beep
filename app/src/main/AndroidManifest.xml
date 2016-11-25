@@ -39,7 +39,8 @@
 
         <activity android:name=".InterfazCita"></activity>
 
-        <activity android:name=".MapsActivity"
+        <activity android:name=".M
+        apsActivity"
             android:parentActivityName=".InterfazCita"></activity>
         
         
